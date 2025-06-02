@@ -23,15 +23,15 @@ A 1D vector is used to store column positions for each row. When a complete solu
 
 ### Example Output for n = 4
 
-.Q..
-...Q
-Q...
-..Q.
+.Q.. <br>
+...Q <br>
+Q... <br>
+..Q. <br>
 
-..Q.
-Q...
-...Q
-.Q..
+..Q. <br>
+Q... <br>
+...Q <br>
+.Q.. <br>
 
 
 --------------------------------------------------------------------------------------
